@@ -1,0 +1,45 @@
+CONTAINER ID   IMAGE               COMMAND                  CREATED                  STATUS                                PORTS     NAMES
+a3fc2aafab74   2b65b00521bc        "python3 manage.py r…"   Less than a second ago   Exited (0) 8 minutes ago                        flamboyant_hugle
+6e6cbc04e90d   2b65b00521bc        "python3 manage.py r…"   Less than a second ago   Created                                         friendly_lumiere
+6a062a24c982   my-blog             "/bin/sh -c 'python3…"   Less than a second ago   Exited (137) Less than a second ago             stoic_dhawan
+a895d4ef392a   94fdc62a34da        "/bin/sh -c 'python3…"   Less than a second ago   Created                                         condescending_lewin
+17628b9f8803   my-app              "python3 manage.py r…"   3 minutes ago            Exited (0) 42 seconds ago                       zealous_kowalevski
+6d734edc5eb5   2b65b00521bc        "python3 manage.py r…"   7 minutes ago            Exited (0) 7 minutes ago                        quizzical_borg
+d84206602f6e   94fdc62a34da        "/bin/sh -c 'python3…"   3 hours ago              Exited (137) Less than a second ago             romantic_pike
+b164510ed1ec   94fdc62a34da        "/bin/sh -c 'python3…"   3 hours ago              Exited (137) Less than a second ago             vigilant_ishizaka
+e273455cf6ab   94fdc62a34da        "/bin/sh -c 'python3…"   3 hours ago              Exited (137) 3 hours ago                        infallible_kepler
+c3406436a4c0   94fdc62a34da        "/bin/sh -c 'python3…"   3 hours ago              Created                                         exciting_shaw
+6d4675401ab0   230994a65693        "/bin/sh -c 'python …"   7 hours ago              Exited (137) 3 hours ago                        xenodochial_lamport
+4d1701d0217f   b16279d60e19        "/bin/sh -c 'python …"   7 hours ago              Exited (137) 7 hours ago                        awesome_bartik
+e233915c697e   b16279d60e19        "/bin/sh -c 'python …"   7 hours ago              Created                                         romantic_jones
+5e78686932bb   b16279d60e19        "/bin/sh -c 'python …"   7 hours ago              Exited (137) 7 hours ago                        serene_engelbart
+d4b3b60e8066   b16279d60e19        "/bin/sh -c 'python …"   7 hours ago              Created                                         clever_goodall
+2f9cdb08931c   1b2722f6c14b        "/bin/sh -c 'python …"   7 hours ago              Exited (137) 7 hours ago                        gifted_keldysh
+8d048bc312db   1b2722f6c14b        "/bin/sh -c 'python …"   7 hours ago              Created                                     d    heuristic_moser
+4ebc47aa95f1   1b2722f6c14b        "/bin/sh -c 'python …"   7 hours ago              Exited (137) 7 hours ago                        naughty_cori
+12eaef4403eb   66e8127bbc4a        "/bin/sh -c 'python …"   7 hours ago              Exited (137) 7 hours ago                        hungry_bhabha
+6e4139e9aab8   1b2722f6c14b        "/bin/sh -c 'python …"   7 hours ago              Exited (137) 7 hours ago                        nervous_feynman
+4f3d80e4c21a   node-app:1.0        "docker-entrypoint.s…"   39 hours ago             Exited (137) 7 hours ago                        intelligent_bassi
+f46158de82f1   node-app:1.0        "docker-entrypoint.s…"   39 hours ago             Exited (137) 7 hours ago                        heuristic_yonath
+b3ea4026d9b2   nginx:1.24-alpine   "/docker-entrypoint.…"   2 days ago               Exited (0) 7 hours ago                          beautiful_booth
+b7fdaddcd9ae   nginx:1.24-alpine   "/docker-entrypoint.…"   2 days ago               Exited (0) 2 days ago                           optimistic_snyder
+c86146c12e35   nginx:1.24-alpine   "/docker-entrypoint.…"   2 days ago               Exited (0) 2 days ago                           confident_benz
+120911df5600   nginx               "/docker-entrypoint.…"   2 days ago               Exited (0) 7 hours ago                          gracious_williamson
+a520aaa886a3   nginx               "/docker-entrypoint.…"   2 days ago               Exited (127) 2 days ago                         loving_hofstadter
+3122126e8d38   nginx               "/docker-entrypoint.…"   2 days ago               Exited (0) 2 days ago                           sharp_jennings
+50d6cd6e100b   redis               "docker-entrypoint.s…"   7 days ago               Exited (0) 7 days ago                           optimistic_austin
+21e8e8412a81   postgres:15         "docker-entrypoint.s…"   7 days ago               Exited (1) 7 days ago                           compassionate_joliot
+ac7cb9cd613c   redis               "docker-entrypoint.s…"   7 days ago               Exited (0) 7 days ago                           hardcore_mahavira
+12cf04fcd787   redis               "docker-entrypoint.s…"   7 days ago               Exited (0) 7 days ago                           festive_jepsen
+fd173abb243b   redis               "docker-entrypoint.s…"   7 days ago               Exited (0) 7 days ago                           peaceful_payne
+4f2401ac30c1   postgres:15         "docker-entrypoint.s…"   7 days ago               Exited (1) 7 days ago                           dreamy_sutherland
+1af49ce841da   postgres:15         "docker-entrypoint.s…"   7 days ago               Exited (0) 7 days ago                           confident_boyd
+b25d17883687   postgres:15         "docker-entrypoint.s…"   7 days ago               Exited (1) 7 days ago                           modest_satoshi
+b8888fbe509a   postgres:15         "docker-entrypoint.s…"   7 days ago               Exited (0) 7 days ago                           gifted_mclaren
+e001683105eb   postgres:15         "docker-entrypoint.s…"   7 days ago               Exited (1) 7 days ago                           practical_moser
+af713752cd11   postgres:15         "docker-entrypoint.s…"   7 days ago               Exited (1) 7 days ago                           modest_aryabhata
+4e4d9c80f224   postgres:15         "docker-entrypoint.s…"   7 days ago               Exited (1) 7 days ago                           competent_wilbur
+2e3cdc8f5721   postgres:15         "docker-entrypoint.s…"   7 days ago               Exited (1) 7 days ago                           quirky_wescoff
+166ad102da6e   postgres:15         "docker-entrypoint.s…"   7 days ago               Exited (1) 7 days ago                           objective_brattain
+e30c709dd77b   postgres:15         "docker-entrypoint.s…"   7 days ago               Exited (1) 7 days ago                           competent_poitras
+c72c488cc556   postgres:15         "docker-entrypoint.s…"   7 days ago               Exited (1) 7 days ago                           crazy_carver
